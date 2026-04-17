@@ -47,7 +47,7 @@ The design follows a **rebel cyberpunk theme**: dark, gritty, neon‑lit, and ha
 
 ---
 
-##Live Demo :
+## Live Demo :
 Check out the hosted version on GitHub Pages:  
 https://vertika13122007-tech.github.io/ShadowMeal-Underground-Redistribution-Network/
 

@@ -47,6 +47,12 @@ The design follows a **rebel cyberpunk theme**: dark, gritty, neon‑lit, and ha
 
 ---
 
+##Live Demo :
+Check out the hosted version on GitHub Pages:  
+https://vertika13122007-tech.github.io/Study-Planner/
+
+---
+
 ## ⚙️ Tech Stack  
 
 - HTML5  
@@ -100,3 +106,14 @@ Optimized for:
 ## 🏁 Conclusion  
 
 ShadowMeal showcases how powerful frontend development can be in creating engaging, story-driven digital experiences without backend dependencies.
+
+---
+
+##License :
+This project is licensed under the MIT License,  feel free to use, modify, and share it.
+
+---
+
+Author: Vertika Singh
+<br>First-year B.Tech (CSE) student exploring web development and open-source collaboration.
+
